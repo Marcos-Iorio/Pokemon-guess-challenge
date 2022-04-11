@@ -102,7 +102,7 @@ function App() {
         </section>
 
         <footer className="fixed-footer">
-        Hecho por<a href="https://github.com/Marcos-Iorio"> Marcos Iorio</a>
+        Hecho por<a href="https://github.com/Marcos-Iorio">Marcos Iorio</a>
         </footer>
       </main>
     </div>
