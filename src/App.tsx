@@ -62,7 +62,7 @@ function App() {
   return(
     <div className="container">
         <header>
-          <h3>¿Quien es este Pokemón?</h3>
+          <h3>¿Quién es este Pokémon?</h3>
           <h4>Challenge de <a href="https://github.com/goncy/interview-challenges/tree/main/guess-pokemon">Goncy</a> </h4>
         </header>
 
