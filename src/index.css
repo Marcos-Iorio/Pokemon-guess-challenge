@@ -25,7 +25,7 @@ main {
 }
 
 .pokemon-container{
-  background-image: url(assets/whoPokemon.png);
+  background-image: url(../assets/whoPokemon.png);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
