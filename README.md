@@ -1,6 +1,6 @@
 # Adivinar el Pokemon
 
-![01](./assets/Captura.png)
+![01](assets/Captura.png)
 
 App made with React.js, Nes.css, Typescript.js and Vite.js
 
